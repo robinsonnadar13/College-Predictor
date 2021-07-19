@@ -1,0 +1,734 @@
+[
+  {
+    "code": "1",
+    "college_name": "IIT Delhi",
+    "state": "Delhi",
+    "category": "Tier 1",
+    "branch": {
+      "ce": "833",
+      "ch": "765",
+      "cs": "900",
+      "ee": "780",
+      "me": "725"
+    },
+    "cgpi": "8.0",
+    "gate_rank": "300"
+  },
+  {
+    "code": "2",
+    "college_name": "IIT Bombay",
+    "state": "Maharashtra",
+    "category": "Tier 1",
+    "branch": {
+      "ce": "711",
+      "ch": "564",
+      "cs": "812",
+      "ee": "851",
+      "me": "775"
+    },
+    "cgpi": "8.0",
+    "gate_rank": "600"
+  },
+  {
+    "code": "3",
+    "college_name": "IIITM Gwalior",
+    "state": "Madhya Pradesh",
+    "category": "Tier 2",
+    "branch": {
+      "cs": "647",
+      "ee": "511",
+      "me": "588"
+    },
+    "cgpi": "7",
+    "gate_rank": "5722"
+  },
+  {
+    "code": "4",
+    "college_name": "IIIT Lucknow",
+    "state": "Uttar Pradesh",
+    "category": "Tier 2",
+    "branch": {
+      "cs": "593"
+    },
+    "cgpi": "7",
+    "gate_rank": "4000"
+  },
+  {
+    "code": "5",
+    "college_name": "VIT Vellore",
+    "state": "Tamil Nadu",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "600",
+      "ch": "600",
+      "cs": "600",
+      "ee": "600",
+      "me": "600"
+    },
+    "cgpi": "7",
+    "gate_rank": "10000"
+  },
+  {
+    "code": "6",
+    "college_name": "Amity University",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "7",
+    "college_name": "Amity University",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "8",
+    "college_name": "FCRIT, Bandra",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "30000"
+  },
+  {
+    "code": "9",
+    "college_name": "St. Stephen's College",
+    "state": "Delhi",
+    "category": "Tier 1",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "8.0",
+    "gate_rank": "3000"
+  },
+  {
+    "code": "10",
+    "college_name": "Hindu College",
+    "state": "Delhi",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "22000"
+  },
+  {
+    "code": "11",
+    "college_name": "Chandigarh University",
+    "state": "Haryana",
+    "category": "Tier 2",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "8.0",
+    "gate_rank": "2000"
+  },
+  {
+    "code": "12",
+    "college_name": "Miranda House",
+    "state": "Delhi",
+    "category": "Tier 2",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "1000"
+  },
+  {
+    "code": "13",
+    "college_name": "IIT Madras",
+    "state": "Tamil Nadu",
+    "category": "Tier 1",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "9.0",
+    "gate_rank": "400"
+  },
+  {
+    "code": "14",
+    "college_name": "IIT Kharagpur",
+    "state": "Maharashtra",
+    "category": "Tier 1",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "8.0",
+    "gate_rank": "300"
+  },
+  {
+    "code": "15",
+    "college_name": "IIT Kanpur",
+    "state": "Maharashtra",
+    "category": "Tier 1",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "8.0",
+    "gate_rank": "100"
+  },
+  {
+    "code": "16",
+    "college_name": "FCRIT, Vashi",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "5.0",
+    "gate_rank": "200000"
+  },
+  {
+    "code": "17",
+    "college_name": "Anna University",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "40000"
+  },
+  {
+    "code": "18",
+    "college_name": "IIT Hyderbad",
+    "state": "Maharashtra",
+    "category": "Tier 2",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "8.0",
+    "gate_rank": "10000"
+  },
+  {
+    "code": "19",
+    "college_name": "IIT Roorkee",
+    "state": "Maharashtra",
+    "category": "Tier 2",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "8.0",
+    "gate_rank": "14000"
+  },
+  {
+    "code": "20",
+    "college_name": "IIT Gauhati",
+    "state": "Maharashtra",
+    "category": "Tier 1",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "8.0",
+    "gate_rank": "204"
+  },
+  {
+    "code": "21",
+    "college_name": "NIT Surathkal",
+    "state": "Delhi",
+    "category": "Tier 2",
+    "branch": {
+      "ce": "833",
+      "ch": "765",
+      "cs": "900",
+      "ee": "780",
+      "me": "725"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "3000"
+  },
+  {
+    "code": "22",
+    "college_name": "NIT Calicut",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "711",
+      "ch": "564",
+      "cs": "812",
+      "ee": "851",
+      "me": "775"
+    },
+    "cgpi": "4.0",
+    "gate_rank": "60000"
+  },
+  {
+    "code": "23",
+    "college_name": "MNIT Allahabad",
+    "state": "Madhya Pradesh",
+    "category": "Tier 2",
+    "branch": {
+      "cs": "647",
+      "ee": "511",
+      "me": "588"
+    },
+    "cgpi": "7",
+    "gate_rank": "5722"
+  },
+  {
+    "code": "24",
+    "college_name": "NIT Rourkela",
+    "state": "Uttar Pradesh",
+    "category": "Tier 2",
+    "branch": {
+      "cs": "593"
+    },
+    "cgpi": "7",
+    "gate_rank": "4000"
+  },
+  {
+    "code": "25",
+    "college_name": "NIT Nagpur",
+    "state": "Tamil Nadu",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "600",
+      "ch": "600",
+      "cs": "600",
+      "ee": "600",
+      "me": "600"
+    },
+    "cgpi": "7",
+    "gate_rank": "10000"
+  },
+  {
+    "code": "26",
+    "college_name": "IIIT Bangalore",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "27",
+    "college_name": "NSIT Delhi",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "28",
+    "college_name": "NIT Jaipur",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "4000"
+  },
+  {
+    "code": "29",
+    "college_name": "NIT Surat",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "30",
+    "college_name": "JNV Delhi",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "3000"
+  },
+  {
+    "code": "31",
+    "college_name": "COE Pune",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "32",
+    "college_name": "VJIT Mumbai",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "33",
+    "college_name": "IIIT Hyderabad",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "34",
+    "college_name": "BITS",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "35",
+    "college_name": "ISI Kolkata",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "36",
+    "college_name": "NIT Trichy",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "37",
+    "college_name": "IIT Indore",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "38",
+    "college_name": "IIT BHU",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "39",
+    "college_name": "IIT Dhanbad",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "40",
+    "college_name": "Jadavpur University",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "41",
+    "college_name": "ICT Mumbai",
+    "state": "Delhi",
+    "category": "Tier 1",
+    "branch": {
+      "ce": "833",
+      "ch": "765",
+      "cs": "900",
+      "ee": "780",
+      "me": "725"
+    },
+    "cgpi": "8.0",
+    "gate_rank": "300"
+  },
+  {
+    "code": "42",
+    "college_name": "NIT Warangal",
+    "state": "Maharashtra",
+    "category": "Tier 1",
+    "branch": {
+      "ce": "711",
+      "ch": "564",
+      "cs": "812",
+      "ee": "851",
+      "me": "775"
+    },
+    "cgpi": "8.0",
+    "gate_rank": "600"
+  },
+  {
+    "code": "43",
+    "college_name": "IIEST Shibpur",
+    "state": "Madhya Pradesh",
+    "category": "Tier 2",
+    "branch": {
+      "cs": "647",
+      "ee": "511",
+      "me": "588"
+    },
+    "cgpi": "7",
+    "gate_rank": "5722"
+  },
+  {
+    "code": "44",
+    "college_name": "IIT Bhubaneshwar",
+    "state": "Uttar Pradesh",
+    "category": "Tier 2",
+    "branch": {
+      "cs": "593"
+    },
+    "cgpi": "7",
+    "gate_rank": "4000"
+  },
+  {
+    "code": "45",
+    "college_name": "IIT Gandhinagar",
+    "state": "Tamil Nadu",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "600",
+      "ch": "600",
+      "cs": "600",
+      "ee": "600",
+      "me": "600"
+    },
+    "cgpi": "7",
+    "gate_rank": "10000"
+  },
+  {
+    "code": "46",
+    "college_name": "IIT Ropar",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "47",
+    "college_name": "IIT Patna",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "48",
+    "college_name": "VNIT Nagpur",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "49",
+    "college_name": "Thapar University",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  },
+  {
+    "code": "50",
+    "college_name": "BITS Pilani",
+    "state": "Maharashtra",
+    "category": "Tier 3",
+    "branch": {
+      "ce": "400",
+      "ch": "400",
+      "cs": "400",
+      "ee": "400",
+      "me": "400"
+    },
+    "cgpi": "7.0",
+    "gate_rank": "20000"
+  }
+]
