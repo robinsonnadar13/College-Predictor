@@ -2,7 +2,7 @@
 
 Predict the College you are likely to get into based on you GATE Rank, CGPI, branch for Masters!
 <br />
-Filters through 100 dummy data present in the College API created!
+Filters through 50 dummy data present in the College API created!
 
 ## Demonstration
 
